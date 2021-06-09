@@ -1,9 +1,7 @@
 # Floyd-Warshall
 Implementation of Floyd–Warshall algorithm in C++, with printing function (Succesor version)
 
-Main function of this program represents this Graph:
-
-![image from Cormen's Book](https://i.imgur.com/N8y1J7h.png)
+Main function contains example graph.
 
 PseudoCode https://www.cs.umd.edu/class/fall2019/cmsc351-0101/files/floydWarshall.pdf
 
